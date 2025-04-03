@@ -1,0 +1,8 @@
+#CRIAR AMBIENTE
+python3 -m venv meu_ambiente
+
+#INICIAR 
+source meu_ambiente/bin/activate
+
+#INSTALAR DEPENDENCIA
+pip install flask flask-cors google-generativeai
