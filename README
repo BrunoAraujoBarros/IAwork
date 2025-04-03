@@ -6,3 +6,6 @@ source meu_ambiente/bin/activate
 
 #INSTALAR DEPENDENCIA
 pip install flask flask-cors google-generativeai
+
+#INICIAR PROJECT
+python app.py
